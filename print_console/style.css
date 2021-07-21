@@ -1,0 +1,23 @@
+.background{
+    background-color: beige;
+}
+#input_number{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: 450px;
+}
+.button {
+    margin-left: 800px;
+    margin-right: 800px;
+    margin-top: 150px;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.button:hover{
+    background-color: plum;
+    color: white;
+}
